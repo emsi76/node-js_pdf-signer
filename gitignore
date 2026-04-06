@@ -1,0 +1,6 @@
+node_modules/
+*.p12
+*.pem
+*.pfx
+*.key
+.env
