@@ -4,9 +4,9 @@ A simple (docker) server for cryptographically signing PDF files, callable via a
 ## Features
 
 - Cryptographic PDF signature (PKCS#7)
-- Visible footer on every page with name, date and Code128 barcode
+- Visible note of digital signature on every page with name, date and Code128 barcode (of the certificate's common name)
 - Multilingual (German / English)
-- Multiple footer positions (bottom / left / hidden)
+- Multiple footer positions: bottom (horizontal)  / left (vertical) / hidden
 - P12 certificate is fetched via URL (including private GitHub repos)
 - Protected by API token
 
