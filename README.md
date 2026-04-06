@@ -10,6 +10,16 @@ A local server for cryptographically signing PDF files, callable via api (e.g. f
 - P12 certificate is fetched via URL (including private GitHub repos)
 - Protected by API token
 
+## Signed PDF examples
+
+<a href="https://github.com/emsi76/node-js_pdf-signer/blob/main/PDF%20Demo_bottom_signed.pdf" >
+<img height="140" alt="PDF Demo_bottom_signed" src="https://github.com/user-attachments/assets/1d5ec850-1d23-44ce-9f05-80aa0267c5ad" />
+</a>&nbsp;
+<a href="https://github.com/emsi76/node-js_pdf-signer/blob/main/PDF%20Demo_left_signed.pdf">
+<img height="140" alt="PDF Demo_left_signed" src="https://github.com/user-attachments/assets/4dde87a7-c8fd-44ee-913d-71972b2a5dd4" />
+</a>
+
+
 ## Requirements
 
 - ZimaOS / Docker
