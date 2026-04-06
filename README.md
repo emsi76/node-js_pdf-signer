@@ -118,8 +118,8 @@ The server should only be accessible within your home network. For external acce
 
 ## Bottom line
 A PKCS#7 PDF signature is a strong technical foundation for a legally binding signature, but its actual legal enforceability depends on the jurisdiction, the certificate trust chain, and whether the circumstances demonstrate clear signing intent. For high-stakes documents, pairing it with a qualified certificate and a trusted timestamp gives you the strongest legal footing.
-I’m not a lawyer — for anything with significant legal consequences, it’s worth consulting one familiar with e-signature law in your jurisdiction.​​​​​​​​​​​​​​​​
-
+__I’m not a lawyer — for anything with significant legal consequences, it’s worth consulting one familiar with e-signature law in your jurisdiction.__
+​​​​
 ## Thanks
 
 Thanks to <a href="https://claude.ai/"><img src="https://claude.ai/favicon.ico" height="16" /> claude ai</a> for successful co-working on this project.
