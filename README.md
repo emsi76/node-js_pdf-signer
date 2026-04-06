@@ -18,7 +18,11 @@ A simple (docker) server for cryptographically signing PDF files, callable via a
 <a href="https://github.com/emsi76/node-js_pdf-signer/blob/main/PDF%20Demo_left_signed.pdf">
 <img height="140" alt="PDF Demo_left_signed" src="https://github.com/user-attachments/assets/4dde87a7-c8fd-44ee-913d-71972b2a5dd4" />
 </a>
+&nbsp;<br/>&nbsp;
 
+
+> [!NOTE]
+> Postioning assuming <a href="https://www.adobe.com/de/creativecloud/design/discover/a4-format.html">DIN A4</a> page size 
 
 ## Requirements
 
