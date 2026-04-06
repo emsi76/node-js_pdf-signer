@@ -109,3 +109,7 @@ In the ZimaOS dashboard → App Store → Install a Custom App → paste `docker
 ## Security Note
 
 The server should only be accessible within your home network. For external access, set up HTTPS.
+
+## Thanks
+
+Thanks to <a href="https://claude.ai/"><img src="https://claude.ai/favicon.ico" height="16" /> claude ai</a> for successful co-working on this project.
