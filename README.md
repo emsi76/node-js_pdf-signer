@@ -1,5 +1,5 @@
 # node-js_pdf-signer
-A simple (docker) server for cryptographically signing PDF files, callable via api (e.g. from iOS Shortcut).
+A simple (docker) server for cryptographically signing PDF files, callable via api (e.g. from iOS Shortcut or any automation).
 
 ## Features
 
