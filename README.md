@@ -54,7 +54,7 @@ mkdir -p /DATA/AppData/pdf-signer
 # Copy LibreBarcode128-Regular.ttf into the directory
 ```
 > [!NOTE]
-> LibreBarcode128-Regular.ttf is a Google Font you can get <a href="https://fonts.google.com/specimen/Libre+Barcode+128?preview.script=Latn">here</a>
+> LibreBarcode128-Regular.ttf is a Google Font used to draw the barcode. You can get it <a href="https://fonts.google.com/specimen/Libre+Barcode+128?preview.script=Latn">here</a>
 
 ### 3. Run npm install
 
