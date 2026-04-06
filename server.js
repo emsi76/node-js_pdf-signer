@@ -147,7 +147,7 @@ async function addSignatureFooter(pdfBuffer, signerName, lang, pos) {
     })
   }
 
-  pdfDoc.setProducer("PDF Signer " + version)
+  pdfDoc.setProducer('https://github.com/emsi76/node-js_pdf-signer" '+version)
   return Buffer.from(await pdfDoc.save({ useObjectStreams: false }))
 }
 
