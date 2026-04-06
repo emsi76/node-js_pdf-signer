@@ -29,7 +29,7 @@ A local server for cryptographically signing PDF files, callable via api (e.g. f
 
 ## Setup
 
-### 1. Create a certificate
+### 1. Create or get a certificate
 
 ```bash
 openssl req -x509 -newkey rsa:2048 -keyout key.pem \
@@ -42,6 +42,9 @@ openssl pkcs12 -export -out certificate.p12 \
 ```
 
 The `certificate.p12` must be accessible via URL.
+
+> [!TIP]
+> As alternative you can get free s/mime certificate from Actalis: <a href="https://www.actalis.com/s-mime-certificates">Actalis s/mime certifice</a>
 
 ### 2. Place files on ZimaOS
 
