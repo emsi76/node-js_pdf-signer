@@ -1,0 +1,18 @@
+version: "3"
+services:
+  pdf-signer:
+    image: node:20-alpine
+    container_name: pdf-signer
+    working_dir: /app
+    entrypoint: node
+    command: server.js
+    volumes:
+      - /DATA/AppData/pdf-signer:/app
+    ports:
+      - "3000:3000"
+    environment:
+      - API_TOKEN=deinGeheimerToken          # Pflicht: API-Zugriffstoken
+      - TIMEZONE=Europe/Vienna               # Optional: Zeitzone für Footer
+      - LOCATION=Österreich                  # Optional: Ort für Signatur-Metadaten
+      - PORT=3000                            # Optional: Port (Standard: 3000)
+    restart: unless-stopped
