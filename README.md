@@ -22,7 +22,7 @@ A simple (docker) server for cryptographically signing PDF files, callable via a
 
 
 > [!NOTE]
-> Postioning assuming <a href="https://www.adobe.com/de/creativecloud/design/discover/a4-format.html">DIN A4</a> page size 
+> The length of the note and its postioning is assuming <a href="https://www.adobe.com/de/creativecloud/design/discover/a4-format.html">DIN A4</a> page size 
 
 ## Requirements
 
