@@ -121,5 +121,5 @@ A PKCS#7 PDF signature is a strong technical foundation for a legally binding si
 __I’m not a lawyer — for anything with significant legal consequences, it’s worth consulting one familiar with e-signature law in your jurisdiction.__
 ​​​​
 ## Thanks
-
-Thanks to <a href="https://claude.ai/"><img src="https://claude.ai/favicon.ico" height="16" /> claude ai</a> for successful co-working on this project.
+* Thanks to <a href="https://github.com/Hopding/pdf-lib">pdf-lib</a> the library used to update and sign the pdf
+* Thanks to <a href="https://claude.ai/"><img src="https://claude.ai/favicon.ico" height="16" /> claude ai</a> for successful co-working on this project.
